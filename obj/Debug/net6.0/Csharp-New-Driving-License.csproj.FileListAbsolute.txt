@@ -1,0 +1,15 @@
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\bin\Debug\net6.0\Csharp-New-Driving-License.exe
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\bin\Debug\net6.0\Csharp-New-Driving-License.deps.json
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\bin\Debug\net6.0\Csharp-New-Driving-License.runtimeconfig.json
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\bin\Debug\net6.0\Csharp-New-Driving-License.dll
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\bin\Debug\net6.0\Csharp-New-Driving-License.pdb
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\Csharp-New-Driving-License.csproj.AssemblyReference.cache
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\Csharp-New-Driving-License.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\Csharp-New-Driving-License.AssemblyInfoInputs.cache
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\Csharp-New-Driving-License.AssemblyInfo.cs
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\Csharp-New-Driving-License.csproj.CoreCompileInputs.cache
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\Csharp-New-Driving-License.dll
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\refint\Csharp-New-Driving-License.dll
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\Csharp-New-Driving-License.pdb
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\Csharp-New-Driving-License.genruntimeconfig.cache
+D:\My Documents\Workshop\Csharp\Csharp-New-Driving-License\obj\Debug\net6.0\ref\Csharp-New-Driving-License.dll
