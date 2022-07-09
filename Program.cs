@@ -33,7 +33,7 @@ namespace Csharp_New_Driving_License
             int my_position = Array.FindIndex(array_names, item => item == name) + 1;
             int serving = array_length / number_agents;
             int minutes = 0;
-            for (int it = 1; it < serving; it++)
+            for (int it = 0; it < serving; it++)
             {
                 if (it < my_position)
                 {
@@ -45,6 +45,7 @@ namespace Csharp_New_Driving_License
                 }
             }
             Console.WriteLine(minutes);
+            Console.ReadKey();
         }
     }
 }
